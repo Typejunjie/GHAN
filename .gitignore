@@ -1,0 +1,10 @@
+*.dataset
+*.ipynb
+test.ipynb
+
+log/
+__pycache__/
+
+global_graph.txt
+global_train.txt
+global_test.txt
